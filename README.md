@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open-source projects and innovative technologies. Here's a little bit about me:
 
-## 🚀 About Me
+## About Me
 
-- 🌱 I’m currently learning and exploring new technologies.
-- 👯 I’m looking to collaborate on exciting open-source projects.
-- 💬 Ask me about anything related to software development, especially in web and mobile development.
-- 📫 How to reach me: [Email me](mailto:raktimchandra26@gmail.com)
-- ⚡ Fun fact: I love to read books and play chess in my free time.
+- I’m currently learning and exploring new technologies.
+- I’m looking to collaborate on exciting open-source projects.
+- Ask me about anything related to software development, especially in web and mobile development.
+- How to reach me: [Email me](mailto:raktimchandra26@gmail.com)
+- Fun fact: I love to read books and play chess in my free time.
 
 ## 🛠️ Technologies & Tools
 
